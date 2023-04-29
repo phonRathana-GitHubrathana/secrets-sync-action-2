@@ -1,0 +1,77 @@
+ }
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
+[]"features": {"n for location in $TARGET_VSCS_LOCATIONS; do",
+"features": {7d497dc55a19: Extracting  18.94MB/279.5MB
+[!'2023-04-09 08:16:22.226GrpcService I] codespaces v1.1.1295.249 (pid: 16460)
+
+Registering prebuild template...
+
+Uploading prebuild template...
+
+Prebuild template deployed succesfully to 'cambodai' location.
+
+Jobs succeeded, exiting the agent
+
+[2023-04-09 08:18:07.963 GrpcService I] codespaces v1.1.1295.249 (pid: 20305)
+
+Registering prebuild template...
+
+Uploading prebuild template...
+
+Prebuild template deployed succesfully to 'EastUs' location.
+
+Jobs succeeded, exiting the agent
+
+[2023-04-09 08:19:47.221 GrpcService I] codespaces v1.1.1295.249 (pid: 23842)
+
+Registering prebuild template...
+
+Uploading prebuild template...
+
+Prebuild template deployed succesfully to 'EastUs2' location.
+
+Jobs succeeded, exiting the agent
+
+[2023-04-09 08:21:29.906 GrpcService I] codespaces v1.1.1295.249 (pid: 27450)
+
+Registering prebuild template...
+
+Uploading prebuild template...
+
+Prebuild template deployed succesfully to 'SouthEastAsia' location.
+
+[2023-04-09 08:23:21.585 GrpcService I] codespaces v1.1.1295.249 (pid: 31299)
+
+Registering prebuild template...
+
+Uploading prebuild template...
+
+Prebuild template deployed succesfully to 'UkSouth' location.
+
+[2023-04-09 08:25:00.782 GrpcService I] codespaces v1.1.1295.249 (pid: 2479)
+
+Registering prebuild template...
+
+Uploading prebuild template...
+
+Prebuild template deployed succesfully to 'WestEurope' location.
+
+[2023-04-09 08:26:41.288 GrpcService I] codespaces v1.1.1295.249 (pid: 6142)
+
+Registering prebuild template...
+
+Uploading prebuild template...
+
+Prebuild template deployed succesfully to 'WestUs2' location.
+
+[2023-04-09 08:28:25.480 GrpcService I] codespaces v1.1.1295.249 (pid: 9789)
+
+Registering prebuild template...
+
+Uploading prebuild template...
+
+Prebuild template deployed succesfully to 'WestUs3' location.
